@@ -1,0 +1,40 @@
+header {
+    font-family: Helvetica;
+    font-size: 50px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("./resources/images/pattern.jpeg");
+}
+
+.first{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+}
+
+#price1{
+    font-family: Helvetica;
+    color: blue;
+    font-weight: bold;
+}
+
+.second{
+    background-color: black;
+    font-size: 32px;
+    color: white;
+}
+
+.third{
+    background-color: black;
+    font-size: 32px;
+    color: white;
+}
+
+body{
+    background-color:antiquewhite;
+}
+
+
